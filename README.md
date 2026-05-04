@@ -78,42 +78,10 @@ cd resume-matcher
 python main.py
 
 
----
-
-## 📁 Project Structure
-
-
-resume-matcher/
-│
-├── main.py
-├── README.md
-├── sample_data/
-│ ├── resume.txt
-│ └── job_description.txt
-
-
----
-
-## 🚫 Constraints Followed
-- ❌ No external APIs used  
-- ❌ No pretrained models  
-- ✅ Fully logic-based implementation  
-
----
-
-## 💡 Future Improvements
-- Expand stopword list
-- Add synonym matching
-- Implement TF/IDF-based scoring manually
-- Add file input support (.txt)
-- Build a CLI or GUI interface
-
----
 
 ## 👨‍💻 Author
 **Sumit Jaiswal**
 
 ---
 
-## 📬 Notes
-This implementation focuses on clarity, simplicity, and correctness of logic as required by the assignment.
+
