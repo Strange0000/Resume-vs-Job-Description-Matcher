@@ -1,13 +1,13 @@
-# 🧠 Resume vs Job Description Matcher
+# Resume vs Job Description Matcher
 
-## 📌 Overview
+## Overview
 This project is a simple Python program that compares a resume with a job description and calculates a match score based on keyword overlap.
 
 The objective is to demonstrate **problem-solving ability, text processing, and logical implementation** without using external APIs or pretrained models.
 
 ---
 
-## 🚀 Features
+## Features
 - Text preprocessing:
   - Lowercasing
   - Punctuation removal
@@ -15,12 +15,12 @@ The objective is to demonstrate **problem-solving ability, text processing, and 
 - Keyword extraction using sets
 - Match score calculation (0–100)
 - Identification of:
-  - ✅ Matching keywords
-  - ❌ Missing keywords
+  -  Matching keywords
+  -  Missing keywords
 
 ---
 
-## ⚙️ Approach
+##  Approach
 
 ### 1. Text Cleaning
 - Convert text to lowercase
@@ -41,7 +41,7 @@ Match Score = (Matched Keywords / Total Job Keywords) × 100
 
 ---
 
-## 🧪 Example
+##  Example
 
 ### Resume
 
@@ -64,7 +64,7 @@ Missing Keywords: ['apis', 'cloud', 'deployment', 'rest']
 
 ---
 
-## 🛠️ How to Run
+##  How to Run
 
 ### 1. Clone the repository
 
@@ -79,7 +79,7 @@ python main.py
 
 
 
-## 👨‍💻 Author
+##  Author
 **Sumit Jaiswal**
 
 ---
